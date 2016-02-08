@@ -6,6 +6,8 @@ used for the current `Tcl` distribution shipped with `R` on Windows.
 
 * Currently the *"Building the CHM help"* part is missing in this guide
 
+**Please find the mingw build instructions [here](msys)**
+
 # Using Microsoft VC
 
 All the following commands assume that the project folder root is at
