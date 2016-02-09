@@ -47,12 +47,8 @@ cd /c/buildMsys/build32/tk8.6.4/win
 ./configure --prefix=/c/buildMsys/build32/Tcl --with-tcl=/c/buildMsys/build32/Tcl/lib
 make
 make install
-~~~
 
 
-## Extensions
-
-~~~
 cd /c/buildMsys
 
 /c/Rtools/bin/unzip bwidget-1.9.9.zip -d build32
