@@ -81,7 +81,7 @@ make
 make install
 
 cd /c/buildMsys/build64/tk8.6.4/win
-./configure --prefix=/c/buildMsys/build64/Tcl --with-tcl=/c/buildMsys/build64/Tcl/lib
+./configure --prefix=/c/buildMsys/build64/Tcl --with-tcl=/c/buildMsys/build64/Tcl/lib --enable-64bit
 make
 make install
 
